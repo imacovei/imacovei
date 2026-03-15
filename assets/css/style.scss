@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$brand-color: #0078d4; // Microsoft blue, looks very professional
+
+.page-header {
+  background-color: $brand-color;
+}
+
+a {
+  color: $brand-color;
+}
