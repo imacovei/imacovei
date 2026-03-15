@@ -1,6 +1,6 @@
 # End‑of‑Line Test Software for Consumer Medical & Electronic Devices
 
-Reliable, automated production testing for modern electronic and health‑tech devices.  
+High‑throughput, multi‑device parallel testing for modern production lines.  
 Used in the final production stage of medical devices 
 
 [comment]: <> (such as **bite away**, **herpoterm**, **epiivo**, and **bite away pro**.)
