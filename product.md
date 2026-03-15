@@ -2,6 +2,22 @@
 
 A modular, flexible platform for automated end‑of‑line testing in electronics and consumer medical devices.
 
+---
+
+## True Parallel Execution
+
+The software can validate, verify, and program **multiple devices in parallel**, using all CPU threads.  
+This enables:
+
+- Real multi‑threaded test execution  
+- Independent test sequences per device  
+- Maximum throughput on a single test station  
+- Reduced cycle time without additional hardware  
+
+Perfect for EMS providers and high‑volume production.
+
+---
+
 ## Key Features
 
 ### Temperature Testing
