@@ -1,1 +1,23 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
+
+title: "Production Test Software"
+description: "End-of-line testing for consumer medical and electronic devices"
+
+show_downloads: false
+
+# Navigation
+navbar:
+  - name: Home
+    link: /
+  - name: Product
+    link: /product
+  - name: Solutions
+    link: /solutions
+  - name: Case Studies
+    link: /cases
+  - name: Services
+    link: /services
+  - name: About
+    link: /about
+  - name: Contact
+    link: /contact
