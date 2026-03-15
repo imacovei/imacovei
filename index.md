@@ -34,30 +34,6 @@ Ideal for medium‑ and high‑volume production environments.
 
 ---
 
-## Get in Touch
-
-Interested in using this software for your production line or partnering as an integrator?  
-[Contact me](contact.md) to discuss your project.
-# End‑of‑Line Test Software for Consumer Medical & Electronic Devices
-
-Reliable, automated production testing for modern electronic and health‑tech devices.  
-Used in the final production stage of devices such as **bite away**, **herpoterm**, **epiivo**, and **bite away pro**.
-
----
-
-## What the Software Does
-
-- Automated functional testing  
-- Temperature profile verification  
-- LED color & brightness analysis  
-- Acoustic FFT analysis  
-- Firmware flashing & version control  
-- Pass/fail logic with traceability  
-- Integration into existing production lines  
-- Modular test sequences for different products  
-
----
-
 ## Why Manufacturers Choose This Platform
 
 - Proven in real production environments  
