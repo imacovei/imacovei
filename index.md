@@ -1,5 +1,43 @@
-## Welcome to my GitHub Page
+# End‑of‑Line Test Software for Consumer Medical & Electronic Devices
 
-Hello,  
-I'm Iulian, a software engineer living in Aachen, Germany
+Reliable, automated production testing for modern electronic and health‑tech devices.  
+Used in the final production stage of devices such as **bite away**, **herpoterm**, **epiivo**, and **bite away pro**.
 
+---
+
+## What the Software Does
+
+- Automated functional testing  
+- Temperature profile verification  
+- LED color & brightness analysis  
+- Acoustic FFT analysis  
+- Firmware flashing & version control  
+- Pass/fail logic with traceability  
+- Integration into existing production lines  
+- Modular test sequences for different products  
+
+---
+
+## Why Manufacturers Choose This Platform
+
+- Proven in real production environments  
+- Designed for consumer medical and health‑tech devices  
+- Fast integration with existing fixtures and hardware  
+- High reliability and repeatability  
+- Customizable for any product family  
+
+---
+
+## Industries Served
+
+- Consumer medical devices  
+- Health‑tech and wellness devices  
+- IoT and smart devices  
+- EMS manufacturing partners  
+
+---
+
+## Get in Touch
+
+Interested in using this software for your production line or partnering as an integrator?  
+[Contact me](contact.md) to discuss your project.
