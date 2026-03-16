@@ -3,6 +3,27 @@
 
 @import "{{ site.theme }}";
 
+/* Navigation bar styling */
+.topnav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 15px 0;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.topnav a {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.topnav a:hover {
+  text-decoration: underline;
+}
+
 $brand-color: #0078d4; // Microsoft blue, looks very professional
 
 .page-header {
