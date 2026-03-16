@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # End‑of‑Line Test Software for Consumer Medical & Electronic Devices
 
 High‑throughput, multi‑device parallel testing for modern production lines.  
@@ -17,7 +21,7 @@ This is real parallelism - not simulated or sequential scheduling - enabling:
 - Faster cycle times  
 - Maximum utilization of fixtures and operators  
 
-Ideal for medium‑ and high‑volume production environments.
+Ideal for medium and high‑volume production environments.
 
 ---
 
