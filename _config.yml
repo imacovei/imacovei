@@ -2,11 +2,6 @@ theme: jekyll-theme-cayman
 
 title: "Production Test Software"
 description: "End-of-line testing for consumer medical and electronic devices"
-
-color:
-  header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
   
 show_downloads: false
 
