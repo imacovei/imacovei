@@ -9,7 +9,7 @@ Used in the final production stage of medical devices
 
 ## True Parallel Testing
 
-Test multiple devices **simultaneously** using all available CPU threads.  
+Test multiple devices **simultaneously** using all available CPU cores.  
 This is real parallelism - not simulated or sequential scheduling - enabling:
 
 - Higher throughput  
