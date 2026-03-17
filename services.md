@@ -13,7 +13,7 @@ layout: default
 
 # Services
 
-We provide a complete set of services to help manufacturers, EMS companies, and integrators deploy reliable, high‑performance inline or end‑of‑line test systems.  
+We provide a complete set of services to help manufacturers, EMS companies, and integrators deploy reliable, high-performance inline or end-of-line test systems.  
 Our goal is simple: ensure your production line runs smoothly, efficiently, and with full confidence in every device that leaves the factory.
 
 ---
@@ -41,7 +41,7 @@ We design and implement test sequences tailored to your product’s functional a
 
 ### Fast Onboarding for New Products
 We help EMS teams bring new devices into production quickly:
-- Rapid test‑sequence creation  
+- Rapid test-sequence creation  
 - Hardware integration support  
 - Fixture adaptation  
 - Cycle‑time optimization  
@@ -89,7 +89,7 @@ For consumer medical devices, we provide:
 
 ---
 
-## Training & Long‑Term Support
+## Training & Long-Term Support
 
 ### Operator Training
 We train your production staff to run the system confidently:
@@ -100,7 +100,7 @@ We train your production staff to run the system confidently:
 ### Ongoing Support
 We offer:
 - Remote support  
-- On‑site support (optional)  
+- On-site support (optional)  
 - Software updates  
 - Preventive maintenance  
 
@@ -113,7 +113,7 @@ We collaborate with integrators to deliver complete test solutions:
 - Shared project planning  
 - Hardware/software co‑design  
 - Fixture integration  
-- Customer‑specific adaptations  
+- Customer-specific adaptations  
 
 ### White‑Label Options
 Integrators can offer the platform under their own brand, with:
@@ -125,6 +125,6 @@ Integrators can offer the platform under their own brand, with:
 
 ## Ready to Start?
 
-Whether you are an EMS provider, an integrator, or a device manufacturer, we can help you build a reliable, scalable, and high‑throughput end‑of‑line test solution.
+Whether you are an EMS provider, an integrator, or a device manufacturer, we can help you build a reliable, scalable, and high-throughput end-of-line test solution.
 
 [Contact us](contact.md) to discuss your project.
