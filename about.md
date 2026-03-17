@@ -13,7 +13,7 @@ layout: default
 
 # About
 
-I am a software engineering leader with nearly 20 years of hands‑on experience designing, building, and deploying production test systems for electronic and consumer medical devices.
+I am a software engineering leader with nearly 20 years of hands-on experience designing, building, and deploying production test systems for electronic and consumer medical devices.
 
 Over the past two decades, I have worked across the full lifecycle of automated testing, from architecture and hardware integration to high-throughput parallel execution and long-term operational stability. My work has supported the production of devices such as **bite away**, **bite away pro**, **herpoterm**, and **epiivo**, ensuring consistent quality, traceability, and regulatory compliance.
 
@@ -23,7 +23,7 @@ Over the past two decades, I have worked across the full lifecycle of automated 
 
 ### Deep Expertise in Production Test Systems
 For almost 20 years, I have developed:
-- End-of-line test platforms  
+- Inline and End-of-line test platforms  
 - Multi-device parallel execution engines  
 - Thermal, LED, and acoustic measurement workflows  
 - Firmware flashing and validation pipelines  
