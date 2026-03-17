@@ -15,6 +15,6 @@ layout: default
 
 If you are interested in using this software or partnering for integration:
 
-**Email:** iulian@macovei.eu
+**Email:** pts@idm-tech.de
 
 **LinkedIn:** www.linkedin.com/in/imacovei  
