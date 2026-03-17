@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 <nav class="topnav">
   <a href="/">Home</a>
