@@ -7,7 +7,6 @@ layout: default
   <a href="/">Home</a>
   <a href="/product">Product</a>
   <a href="/solutions">Solutions</a>
-  <a href="/cases">Case Studies</a>
   <a href="/services">Services</a>
   <a href="/about">About</a>
   <a href="/contact">Contact</a>
