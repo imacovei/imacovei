@@ -1,5 +1,4 @@
 ---
-title: Solutions
 layout: default
 ---
 
