@@ -13,7 +13,7 @@ layout: default
 
 # Services
 
-We provide a complete set of services to help manufacturers, EMS companies, and integrators deploy reliable, high‑performance end‑of‑line test systems.  
+We provide a complete set of services to help manufacturers, EMS companies, and integrators deploy reliable, high‑performance inline or end‑of‑line test systems.  
 Our goal is simple: ensure your production line runs smoothly, efficiently, and with full confidence in every device that leaves the factory.
 
 ---
