@@ -21,7 +21,7 @@ Designed for reliability, scalability, and true parallel execution in demanding 
 ## True Parallel Execution
 
 The software can validate, verify, and program **multiple devices in parallel**, using all available CPU threads.  
-This is real multi‑threaded execution — not simulated concurrency.
+This is real multi‑threaded execution.
 
 Benefits:
 - Maximum throughput on a single station  
