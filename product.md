@@ -13,7 +13,7 @@ layout: default
 
 # Production Test Software
 
-A modular, high‑performance platform for automated end‑of‑line testing in consumer medical and electronic devices.  
+A modular, high‑performance platform for automated inline or end‑of‑line testing in consumer medical and electronic devices.  
 Designed for reliability, scalability, and true parallel execution in demanding production environments.
 
 ---
@@ -21,7 +21,7 @@ Designed for reliability, scalability, and true parallel execution in demanding 
 ## True Parallel Execution
 
 The software can validate, verify, and program **multiple devices in parallel**, using all available CPU threads.  
-This is real multi‑threaded execution.
+This is real multi-threaded execution.
 
 Benefits:
 - Maximum throughput on a single station  
@@ -63,7 +63,7 @@ Benefits:
 - Operator and station tracking  
 
 ### Integration
-- Integrates with microphones, industrial sensors, infrared thermometers, and high‑accuracy LED analyzers  
+- Integrates with microphones, industrial sensors, infrared thermometers, and high-accuracy LED analyzers  
 - Easily connects to custom fixtures and multi‑nest tooling  
 - Extensible API for custom test logic and hardware modules  
 - Seamless integration with common production‑line interfaces  
@@ -74,8 +74,8 @@ Benefits:
 
 - Modular plugin system  
 - Configurable test sequences  
-- Multi‑device parallel execution engine  
-- Clean, operator‑friendly UI  
+- Multi-device parallel execution engine  
+- Clean, operator-friendly UI  
 - Runs on standard Windows PCs  
 - Easy integration into existing production lines  
 
@@ -86,5 +86,5 @@ Benefits:
 The platform is used in the production of devices such as **bite away**, **bite away pro**, **herpoterm**, and **epiivo**, ensuring:
 - Repeatable, validated test processes  
 - Full traceability  
-- Stable long‑term operation  
+- Stable long-term operation  
 - Fast adaptation to new product variants  
