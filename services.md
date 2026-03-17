@@ -97,13 +97,6 @@ We train your production staff to run the system confidently:
 - Troubleshooting  
 - Best practices  
 
-### Engineering Training
-We train your technical team to:
-- Modify test sequences  
-- Add new product variants  
-- Integrate new hardware  
-- Maintain long‑term stability  
-
 ### Ongoing Support
 We offer:
 - Remote support  
