@@ -14,7 +14,7 @@ layout: default
 
 # High-Throughput Test Software for Consumer Medical & Electronic Devices
 
-A high‑performance platform for automated production testing, designed for multi‑device parallel execution, precise measurements, and full traceability. It integrates seamlessly with microphones, sensors, infrared thermometers, LED analyzers, and custom fixtures to deliver fast, reliable, and repeatable test results in demanding manufacturing environments.
+A high‑performance platform for automated production testing, designed for multi‑device parallel execution, precise measurements, and full traceability. It integrates seamlessly with infrared thermometers, LED analyzers, microphones, sensors, and custom fixtures to deliver fast, reliable, and repeatable test results in demanding manufacturing environments.
 
 It is a modular, scalable test platform built for EMS providers and manufacturers of consumer medical and electronic devices. It delivers fast cycle times, true parallel testing, and complete traceability while integrating with a wide range of measurement hardware and custom fixtures.
 
