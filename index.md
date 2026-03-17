@@ -12,10 +12,11 @@ layout: default
 </nav>
 
 
-# End‑of‑Line Test Software for Consumer Medical & Electronic Devices
+# High-Throughput Test Software for Consumer Medical & Electronic Devices
 
-High‑throughput, multi-device parallel testing for modern production lines.  
-Used in the final production stage of medical devices 
+A high‑performance platform for automated production testing, designed for multi‑device parallel execution, precise measurements, and full traceability. It integrates seamlessly with microphones, sensors, infrared thermometers, LED analyzers, and custom fixtures to deliver fast, reliable, and repeatable test results in demanding manufacturing environments.
+
+It is a modular, scalable test platform built for EMS providers and manufacturers of consumer medical and electronic devices. It delivers fast cycle times, true parallel testing, and complete traceability while integrating with a wide range of measurement hardware and custom fixtures.
 
 [comment]: <> (such as **bite away**, **herpoterm**, **epiivo**, and **bite away pro**.)
 
