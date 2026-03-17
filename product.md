@@ -1,4 +1,5 @@
 ---
+title: Product
 layout: default
 ---
 
@@ -14,21 +15,22 @@ layout: default
 
 # Production Test Software
 
-A modular, flexible platform for automated end‑of‑line testing in electronics and consumer medical devices.
+A modular, high‑performance platform for automated end‑of‑line testing in consumer medical and electronic devices.  
+Designed for reliability, scalability, and true parallel execution in demanding production environments.
 
 ---
 
 ## True Parallel Execution
 
-The software can validate, verify, and program **multiple devices in parallel**, using all CPU threads.  
-This enables:
+The software can validate, verify, and program **multiple devices in parallel**, using all available CPU threads.  
+This is real multi‑threaded execution — not simulated concurrency.
 
-- Real multi‑threaded test execution  
-- Independent test sequences per device  
-- Maximum throughput on a single test station  
-- Reduced cycle time without additional hardware  
-
-Perfect for EMS providers and high‑volume production.
+Benefits:
+- Maximum throughput on a single station  
+- Reduced cycle time  
+- Lower cost per device  
+- Independent test sequences per DUT  
+- Ideal for EMS lines and multi‑nest fixtures  
 
 ---
 
@@ -36,8 +38,9 @@ Perfect for EMS providers and high‑volume production.
 
 ### Temperature Testing
 - Heating/cooling profile verification  
+- IR‑based temperature measurement  
 - Sensor calibration  
-- Safety thresholds  
+- Safety threshold validation  
 
 ### LED Analysis
 - Color measurement  
@@ -53,13 +56,37 @@ Perfect for EMS providers and high‑volume production.
 - Flashing new firmware  
 - Version tracking  
 - Secure update workflows  
+- Integration with existing programming tools  
 
 ### Reporting & Traceability
 - Local or networked database  
 - CSV/JSON export  
-- Full audit trail  
+- Full audit trail for regulated environments  
+- Operator and station tracking  
 
 ### Integration
-- Works with cameras, microphones, sensors  
-- Supports custom fixtures  
-- API for custom test steps  
+- Integrates with microphones, industrial sensors, infrared thermometers, and high‑accuracy LED analyzers  
+- Easily connects to custom fixtures and multi‑nest tooling  
+- Extensible API for custom test logic and hardware modules  
+- Seamless integration with common production‑line interfaces  
+
+---
+
+## Architecture Overview
+
+- Modular plugin system  
+- Configurable test sequences  
+- Multi‑device parallel execution engine  
+- Clean, operator‑friendly UI  
+- Runs on standard Windows PCs  
+- Easy integration into existing production lines  
+
+---
+
+## Built for Regulated Products
+
+The platform is used in the production of devices such as **bite away**, **bite away pro**, **herpoterm**, and **epiivo**, ensuring:
+- Repeatable, validated test processes  
+- Full traceability  
+- Stable long‑term operation  
+- Fast adaptation to new product variants  
