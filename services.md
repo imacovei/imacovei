@@ -3,6 +3,14 @@ title: Services
 layout: default
 ---
 
+<nav class="topnav">
+  <a href="/">Home</a>
+  <a href="/product">Product</a>
+  <a href="/services">Services</a>
+  <a href="/about">About</a>
+  <a href="/contact">Contact</a>
+</nav>
+
 # Services
 
 We provide a complete set of services to help manufacturers, EMS companies, and integrators deploy reliable, high‑performance end‑of‑line test systems.  
